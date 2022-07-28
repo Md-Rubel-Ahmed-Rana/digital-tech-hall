@@ -1,9 +1,0 @@
-
-body{
-    font-family: 'Roboto';
-}
-@media screen and (min-width: 992px) {
-    #navbarSupportedContent{
-        margin-left: 315px;
-    }
-}
